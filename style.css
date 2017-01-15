@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,Roboto,Open Sans,Helvetica Neue,sans-serif;
+    font-size: 1.2em;
+}
+
+#menu {
+    width: 200px;
+    height: 100%;
+    background: #444;
+}
+
+#s1,
+#s2,
+#s3,
+#s4,
+#s5 {
+    width: 200px;
+    height: 20%;
+     float: left;
+    background: #222;
+}
